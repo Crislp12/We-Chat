@@ -9,4 +9,6 @@
 3. add friends
 4. get notifications 
 
+1. create community 
+2. comment 
 
