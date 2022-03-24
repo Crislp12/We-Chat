@@ -9,4 +9,5 @@
 3. add friends
 4. get notifications 
 
-
+In other for the app to be better,we want to be able to update this app.
+Constaly.
