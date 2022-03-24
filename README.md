@@ -1,7 +1,12 @@
 # We-Chat
 
+1. payment method
+2. taxi app 
+3. maps 
+
 1. inbox 
 2. posting 
 3. add friends
 4. get notifications 
+
 
